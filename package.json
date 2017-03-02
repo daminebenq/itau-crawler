@@ -1,0 +1,33 @@
+{
+  "name": "itau-crawler",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "dotenv": "^4.0.0",
+    "nightmare": "^2.10.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icaromh/itau-crawler.git"
+  },
+  "keywords": [
+    "itau",
+    "crawler",
+    "bank",
+    "account",
+    "balance"
+  ],
+  "author": "Ícaro Heimig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icaromh/itau-crawler/issues"
+  },
+  "homepage": "https://github.com/icaromh/itau-crawler#readme"
+}
